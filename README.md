@@ -7,10 +7,8 @@ This repository contains **two main data analysis projects** implemented in Jupy
 
 ## 📁 Project Structure
 Pandas/
-│
 ├── Companies.ipynb # Fortune 500 companies analysis
 ├── IPLAnalysis.ipynb # IPL matches & deliveries analysis
-│
 ├── Fortune500CompaniesUS.csv # Dataset for Fortune 500 project
 ├── matches - matches.csv # IPL match details dataset
 └── deliveries.csv # IPL ball-by-ball dataset
